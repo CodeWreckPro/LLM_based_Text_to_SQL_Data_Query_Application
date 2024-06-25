@@ -45,7 +45,7 @@ This project provides a user-friendly interface for querying a MySQL database us
     ```
 
 4. **Set up the environment variables:**
-    Create a `.env` file in the project root directory and add your Google API key:
+    Edit the `.env` file in the project root directory and add your Google API key:
     ```env
     GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
     ```
@@ -105,8 +105,7 @@ We welcome contributions! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-Feel free to update the details as per your specific requirements.
